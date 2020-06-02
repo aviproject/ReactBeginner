@@ -6,7 +6,5 @@ class Welcome extends Component{
             <h1>Class Base Component</h1>
         );
     }
-
-
 }
 export default Welcome
